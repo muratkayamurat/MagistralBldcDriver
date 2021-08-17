@@ -1,1 +1,1 @@
-# MagistralBldcDriver
+# Magistral Bldc Driver
