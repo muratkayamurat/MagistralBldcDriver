@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+<node name="SeomakBLDC" pkg="seomak" type="motordriver.py" output="screen">
+<param name="publish_tf" value="false"/>
+<param name="publish_odom" value="false"/>
+</node>
+</launch>

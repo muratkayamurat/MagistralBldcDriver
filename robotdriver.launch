@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+<node name="robotdriver" pkg="seomak" type="robotdriver.py" output="screen">
+<param name="publish_tf" value="false"/> <!--true-->
+<param name="publish_odom" value="false"/><!--true-->
+<!--<param name="odom_name" value="odom"/>-->
+</node>
+</launch>
